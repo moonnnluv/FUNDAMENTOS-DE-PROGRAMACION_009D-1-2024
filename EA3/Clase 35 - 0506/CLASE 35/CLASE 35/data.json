@@ -1,0 +1,72 @@
+{
+    "Argentina": {
+        "capital": "Buenos Aires",
+        "población": 45195777,
+        "superficie": 2780400,
+        "moneda": "Peso argentino",
+        "lengua": "Español"
+    },
+    "Brasil": {
+        "capital": "Brasilia",
+        "población": 212559417,
+        "superficie": 8515767,
+        "moneda": "Real brasileño",
+        "lengua": "Portugués"
+    },
+    "Canadá": {
+        "capital": "Ottawa",
+        "población": 38005238,
+        "superficie": 9984670,
+        "moneda": "Dólar canadiense",
+        "lengua": "Inglés y Francés"
+    },
+    "Francia": {
+        "capital": "París",
+        "población": 65273511,
+        "superficie": 551695,
+        "moneda": "Euro",
+        "lengua": "Francés"
+    },
+    "Japón": {
+        "capital": "Tokio",
+        "población": 126476461,
+        "superficie": 377975,
+        "moneda": "Yen",
+        "lengua": "Japonés"
+    },
+    "México": {
+        "capital": "Ciudad de México",
+        "población": 128932753,
+        "superficie": 1964375,
+        "moneda": "Peso mexicano",
+        "lengua": "Español"
+    },
+    "Rusia": {
+        "capital": "Moscú",
+        "población": 144104080,
+        "superficie": 17098242,
+        "moneda": "Rublo ruso",
+        "lengua": "Ruso"
+    },
+    "Sudáfrica": {
+        "capital": "Pretoria",
+        "población": 59308690,
+        "superficie": 1221037,
+        "moneda": "Rand sudafricano",
+        "lengua": "Inglés y otras 10 lenguas oficiales"
+    },
+    "Alemania": {
+        "capital": "Berlín",
+        "población": 83149300,
+        "superficie": 357022,
+        "moneda": "Euro",
+        "lengua": "Alemán"
+    },
+    "Australia": {
+        "capital": "Canberra",
+        "población": 25687041,
+        "superficie": 7692024,
+        "moneda": "Dólar australiano",
+        "lengua": "Inglés"
+    }
+}
