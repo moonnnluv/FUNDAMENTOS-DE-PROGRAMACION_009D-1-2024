@@ -1,0 +1,142 @@
+[
+    {
+        "nombre": "Mickey Mouse",
+        "peso": 75,
+        "estatura": 1.51,
+        "imc": 32.9,
+        "clasificación": "Obesidad"
+    },
+    {
+        "nombre": "Donald Duck",
+        "peso": 51,
+        "estatura": 1.98,
+        "imc": 13.0,
+        "clasificación": "Bajo Peso"
+    },
+    {
+        "nombre": "SpongeBob SquarePants",
+        "peso": 68,
+        "estatura": 1.67,
+        "imc": 24.4,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Homer Simpson",
+        "peso": 85,
+        "estatura": 1.63,
+        "imc": 32.0,
+        "clasificación": "Obesidad"
+    },
+    {
+        "nombre": "Bart Simpson",
+        "peso": 93,
+        "estatura": 1.68,
+        "imc": 33.0,
+        "clasificación": "Obesidad"
+    },
+    {
+        "nombre": "Peter Griffin",
+        "peso": 72,
+        "estatura": 1.96,
+        "imc": 18.7,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Stewie Griffin",
+        "peso": 55,
+        "estatura": 1.54,
+        "imc": 23.2,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Scooby-Doo",
+        "peso": 50,
+        "estatura": 1.51,
+        "imc": 21.9,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Shaggy Rogers",
+        "peso": 60,
+        "estatura": 1.76,
+        "imc": 19.4,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Fred Flintstone",
+        "peso": 55,
+        "estatura": 1.59,
+        "imc": 21.8,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Tom Cat",
+        "peso": 59,
+        "estatura": 1.64,
+        "imc": 21.9,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Jerry Mouse",
+        "peso": 75,
+        "estatura": 1.74,
+        "imc": 24.8,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Bugs Bunny",
+        "peso": 84,
+        "estatura": 1.67,
+        "imc": 30.1,
+        "clasificación": "Obesidad"
+    },
+    {
+        "nombre": "Daffy Duck",
+        "peso": 91,
+        "estatura": 1.9,
+        "imc": 25.2,
+        "clasificación": "Sobrepeso"
+    },
+    {
+        "nombre": "Popeye",
+        "peso": 87,
+        "estatura": 1.67,
+        "imc": 31.2,
+        "clasificación": "Obesidad"
+    },
+    {
+        "nombre": "Garfield",
+        "peso": 66,
+        "estatura": 1.63,
+        "imc": 24.8,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Betty Boop",
+        "peso": 56,
+        "estatura": 1.57,
+        "imc": 22.7,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Tweety",
+        "peso": 73,
+        "estatura": 1.95,
+        "imc": 19.2,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Sylvester",
+        "peso": 69,
+        "estatura": 1.85,
+        "imc": 20.2,
+        "clasificación": "Normal"
+    },
+    {
+        "nombre": "Yogi Bear",
+        "peso": 88,
+        "estatura": 1.9,
+        "imc": 24.4,
+        "clasificación": "Normal"
+    }
+]

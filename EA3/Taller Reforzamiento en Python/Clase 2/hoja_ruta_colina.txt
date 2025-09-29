@@ -1,0 +1,7 @@
+Nombre: dfds
+                                Dirección: dsfds
+                                Sector: colina
+                                Cilindro 5kg: 2
+                                Cilindro 15kg: 3
+                                Cilindro 45kg: 4
+
